@@ -1,0 +1,73 @@
+Armor - Light
+Lamellar cuirass
++4 = $16k
++5 = $25k
++6 = $36k
+
+
+Weapons
++2 = $8k
++3 = $18k
++4 = $32k
+
+2x daggers
+1x kukri +2 $8k
+2x punching dagger
+1x short sword +3 $18k - A short sword is about 2 feet in length.
+
+
+Natural Weapons: 
+A tengu has a bite attack that deals 1d3 points of damage.
+
+
+Feats
+
+1 lvl - Blood Beak - Increase the damage of your beak attack to 1d6. Furthermore, when you confirm a critical hit with your beak attack, you also deal 1 point of bleed damage.
+
+3 lvl - Weapon Finesse - With a light weapon, elven curve blade, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+
+5 lvl - Tengu Wings - Once per day, you can sprout a pair of giant black crow's wings, granting you a fly speed of 30 feet (average maneuverability). This spell-like ability otherwise functions as beast shape I (though you do not gain any other benefits of that spell) with a caster level equal to your level.
+
+7 lvl - Toughness - +10 hp.
+
+Agile Maneuvers - You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus instead of your Strength bonus.
+
+
+Rogue Talents
+2 lvl - Deft Palm - A rogue with this talent can make a Sleight of Hand check to conceal a weapon while holding it in plain sight, even while she is being observed.
+
+4 lvl - Expert Leaper - When making jump checks, the rogue is always considered to have a running start. Also, when the rogue deliberately falls, a DC 15 Acrobatics check allows her to ignore the first 20 feet fallen, instead of the first 10 feet.
+
+6 lvl - Follow Clues -  A rogue with this talent can use Perception to follow tracks as per the Survival skill.
+
+8 lvl - Quick Disable - It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round).
+
+10 lvl - Fast Stealth - Move at full speed while using Stealth
+
+
+Rogue Advanced Talents
+10 lvl - Opportunist (Ex) - Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as an attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can't use the opportunist ability more than once per round.
+
+
+Traits
+added - Child of the Streets - You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class skill for you.
+
+Threatening Defender - When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.
+
+added - Reactionary - You gain a +2 trait bonus on Initiative checks.
+
+
+Special
+
+Trapfinding - 
+A rogue adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
+
+Evasion - 
+At 2nd level and higher, a rogue can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
+
+Trap Sense +3 - 
+At 3rd level, a rogue gains an intuitive sense that alerts her to danger from traps, giving her a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise to +2 when the rogue reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th, and to +6 at 18th level. Trap sense bonuses gained from multiple classes stack.
+
+Uncanny Dodge - 
+Starting at 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action (see Combat) against her.
+Improved Uncanny Dodge - A rogue of 8th level or higher can no longer be flanked.
