@@ -1,4 +1,4 @@
-# [Inquisitor](http://www.d20pfsrd.com/classes/base-classes/inquisitor)
+# [Inquisitor lvl 5](http://www.d20pfsrd.com/classes/base-classes/inquisitor)
 - Nesta Lumar
 - Wisdom character
 
@@ -17,30 +17,32 @@
 5. [Toughness](http://www.d20pfsrd.com/feats/general-feats/toughness---final)
 
 # Specials
-1. Domain, judgment 1/day, monster lore, orisons, stern gaze
-2. Cunning initiative, detect alignment, track
-3. Solo tactics, teamwork feat
-4. Judgment 2/day
-5. Bane, discern lies
+1. [Domain](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Domain), [judgment 1/day](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-), [monster lore](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Monster-Lore-Ex-), [orisons](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Orisons), [stern gaze](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Stern-Gaze-Ex-)
+2. [Cunning initiative](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Cunning-Initiative-Ex-), [detect alignment](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Detect-Alignment-Sp-), [track](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Track-Ex-)
+3. [Solo tactics](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Solo-Tactics-Ex-), [teamwork feat](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-teamwork-Feat)
+4. [Judgment 2/day](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-)
+5. [Bane](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Bane-Su-), [discern lies](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Discern-Lies-Sp-)
 
-# Domain - Madness
+# [Domain - Madness](http://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo---domains/madness-domain)
 
-### God 
-- Nemyth Vaar
+You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others.
+
+### God
+- [Nemyth Vaar](http://www.d20pfsrd.com/classes/core-classes/cleric/gods-3rd-party-publishers/gods-of-porphyra-pdg/nemyth-vaar)
 
 ### Spells
-1. 1th lvl [confusion (lesser)](http://www.d20pfsrd.com/magic/all-spells/c/confusion#TOC-Confusion-Lesser) Vision of Madness (Sp)
-2. 2th lvl [touch of idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
-3. 3th lvl [rage](http://www.d20pfsrd.com/magic/all-spells/r/rage)
-4. 4th lvl [confusion](http://www.d20pfsrd.com/magic/all-spells/c/confusion)
-5. 5th lvl [nightmare](http://www.d20pfsrd.com/magic/all-spells/n/nightmare)
-6. 6th phantasmal killer
-7. insanity
-8. scintillating pattern, Aura of Madness (Su)
-9. weird
+- 1th lvl [confusion (lesser)](http://www.d20pfsrd.com/magic/all-spells/c/confusion#TOC-Confusion-Lesser) Vision of Madness (Sp)
+- 2th lvl [touch of idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
+- 3th lvl [rage](http://www.d20pfsrd.com/magic/all-spells/r/rage)
+- 4th lvl [confusion](http://www.d20pfsrd.com/magic/all-spells/c/confusion)
+- 5th lvl [nightmare](http://www.d20pfsrd.com/magic/all-spells/n/nightmare)
+- 6th lvl [phantasmal killer](http://www.d20pfsrd.com/magic/all-spells/p/phantasmal-killer)
+- 7th lvl [insanity](http://www.d20pfsrd.com/magic/all-spells/i/insanity)
+- 8th lvl [scintillating pattern](http://www.d20pfsrd.com/magic/all-spells/s/scintillating-pattern), [Aura of Madness (Su)](http://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo---domains/madness-domain)
+- 9th lvl [weird](http://www.d20pfsrd.com/magic/all-spells/w/weird)
 
 # Judgment
-- 2 times/day
+- [2 times/day](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-)
 - Destruction, Healing, Justice, Piercing, Protection, Purity, Resiliency, Resistance, Smiting
 
 # Spells
@@ -52,19 +54,19 @@
 5.	6 0-lvl, 4 1-lvl, 3 2-lvl
 
 ### 0 lvl spells - unlimited
-- Create Water
-- Detect Magic
-- Light
-- Resistance
-- Stabilize
-- Brand
+- [Create Water](http://www.d20pfsrd.com/magic/all-spells/c/create-water)
+- [Detect Magic](http://www.d20pfsrd.com/magic/all-spells/d/detect-magic)
+- [Light](http://www.d20pfsrd.com/magic/all-spells/l/light)
+- [Resistance](http://www.d20pfsrd.com/magic/all-spells/r/resistance)
+- [Stabilize](http://www.d20pfsrd.com/magic/all-spells/s/stabilize)
+- [Brand](http://www.d20pfsrd.com/magic/all-spells/b/brand)
 
 ### 1 lvl spells - 4 per/day
-- Cure Light Wounds
-- Disguise Self
-- Remove Fear
-- True Strike
+- [Cure Light Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds)
+- [Disguise Self](http://www.d20pfsrd.com/magic/all-spells/d/disguise-self)
+- [Remove Fear](http://www.d20pfsrd.com/magic/all-spells/r/remove-fear)
+- [True Strike](http://www.d20pfsrd.com/magic/all-spells/t/true-strike)
 
 ### 2 lvl spells - 2 per/day
-- Cure Moderate Wounds
-- Invisibility
+- [Cure Moderate Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-moderate-wounds)
+- [Invisibility](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
