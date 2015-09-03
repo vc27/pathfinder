@@ -29,12 +29,12 @@
 - Nemyth Vaar
 
 ### Spells
-1. [confusion (lesser)](http://www.d20pfsrd.com/magic/all-spells/c/confusion#TOC-Confusion-Lesser) Vision of Madness (Sp)
-2. [touch of idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
-3. [rage](http://www.d20pfsrd.com/magic/all-spells/r/rage)
-4. [confusion](http://www.d20pfsrd.com/magic/all-spells/c/confusion)
-5. [nightmare](http://www.d20pfsrd.com/magic/all-spells/n/nightmare)
-6. phantasmal killer
+1. 1th lvl [confusion (lesser)](http://www.d20pfsrd.com/magic/all-spells/c/confusion#TOC-Confusion-Lesser) Vision of Madness (Sp)
+2. 2th lvl [touch of idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
+3. 3th lvl [rage](http://www.d20pfsrd.com/magic/all-spells/r/rage)
+4. 4th lvl [confusion](http://www.d20pfsrd.com/magic/all-spells/c/confusion)
+5. 5th lvl [nightmare](http://www.d20pfsrd.com/magic/all-spells/n/nightmare)
+6. 6th phantasmal killer
 7. insanity
 8. scintillating pattern, Aura of Madness (Su)
 9. weird
