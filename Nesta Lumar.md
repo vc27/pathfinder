@@ -45,7 +45,7 @@ You embrace the madness that lurks deep in your heart, and can unleash it to dri
 - 2 times/day
 - Destruction, Healing, Justice, Piercing, Protection, Purity, Resiliency, Resistance, Smiting
 
-# Spells
+# [Spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor)
 
 ## Spells per Day
 5. 1st 4, 2nd 2
@@ -53,7 +53,10 @@ You embrace the madness that lurks deep in your heart, and can unleash it to dri
 ## Spells Known
 5.	6 0-lvl, 4 1-lvl, 3 2-lvl
 
-### 0 lvl spells - unlimited
+### [0 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor#p0)
+
+6 known, unlimited per day
+
 - [Create Water](http://www.d20pfsrd.com/magic/all-spells/c/create-water)
 - [Detect Magic](http://www.d20pfsrd.com/magic/all-spells/d/detect-magic)
 - [Light](http://www.d20pfsrd.com/magic/all-spells/l/light)
@@ -61,12 +64,18 @@ You embrace the madness that lurks deep in your heart, and can unleash it to dri
 - [Stabilize](http://www.d20pfsrd.com/magic/all-spells/s/stabilize)
 - [Brand](http://www.d20pfsrd.com/magic/all-spells/b/brand)
 
-### 1 lvl spells - 4 per/day
+### [1 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor#p1)
+
+4 known, 4 per day
+
 - [Cure Light Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds)
 - [Disguise Self](http://www.d20pfsrd.com/magic/all-spells/d/disguise-self)
 - [Remove Fear](http://www.d20pfsrd.com/magic/all-spells/r/remove-fear)
 - [True Strike](http://www.d20pfsrd.com/magic/all-spells/t/true-strike)
 
-### 2 lvl spells - 2 per/day
+### [2 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor#p2)
+
+2 known, 2 per day
+
 - [Cure Moderate Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-moderate-wounds)
 - [Invisibility](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
