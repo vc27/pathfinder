@@ -1,4 +1,4 @@
-The ability to skewers the tastiest bite of it owner on each thrust. Has been enbued with the holy light of St Mother Martha of the Stewart.
+The ability to skewers the tastiest bite of it's owners dish on each thrust. Has been imbued with the holy light of St Mother Martha of the Stewart.
 
 ### Cost: 10 gp
 
