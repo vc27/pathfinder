@@ -47,12 +47,6 @@ You embrace the madness that lurks deep in your heart, and can unleash it to dri
 
 # [Spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor)
 
-## Spells per Day
-5. 1st 4, 2nd 2
-
-## Spells Known
-5.	6 0-lvl, 4 1-lvl, 3 2-lvl
-
 ### [0 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---inquisitor#p0)
 
 6 known, unlimited per day
