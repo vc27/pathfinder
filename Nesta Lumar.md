@@ -41,8 +41,8 @@ You embrace the madness that lurks deep in your heart, and can unleash it to dri
 - 8th lvl [scintillating pattern](http://www.d20pfsrd.com/magic/all-spells/s/scintillating-pattern), [Aura of Madness (Su)](http://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo---domains/madness-domain)
 - 9th lvl [weird](http://www.d20pfsrd.com/magic/all-spells/w/weird)
 
-# Judgment
-- [2 times/day](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-)
+# [Judgment](http://www.d20pfsrd.com/classes/base-classes/inquisitor#TOC-Judgment-Su-)
+- 2 times/day
 - Destruction, Healing, Justice, Piercing, Protection, Purity, Resiliency, Resistance, Smiting
 
 # Spells
