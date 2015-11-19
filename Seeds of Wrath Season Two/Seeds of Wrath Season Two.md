@@ -41,17 +41,17 @@
 - []()
 
 ### [1 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
-- 5 Prepared, unlimited per day
+- 5 Prepared, 4 slots per day, 7 known
 - []()
 
 ### [2 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
-- 4 Prepared, unlimited per day
+- 4 Prepared, 4 slots per day, 4 known
 - []()
 
 ### [3 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
-- 3 Prepared, unlimited per day
+- 3 Prepared, 4 slots per day, 4 known
 - []()
 
 ### [4 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
-- 2 Prepared, unlimited per day
+- 2 Prepared, 3 slots per day, 4 known
 - []()
