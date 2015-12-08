@@ -27,7 +27,6 @@ Seeds of Wrath Season Two
 - Female - Colya
 - http://www.kabalarians.com/Male/colya.htm
 - Class Skills: Appraise (Int), Craft (Int), Fly (Dex), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
-- Skill Ranks per Level: 2 + Int modifier + 1 human = 6/lvl = 54
 
 ## Languages = lvl 9 = 9 ranks
 - Common - base
