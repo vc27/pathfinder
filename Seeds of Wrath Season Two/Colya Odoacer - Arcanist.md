@@ -29,29 +29,18 @@ Seeds of Wrath Season Two
 - Class Skills: Appraise (Int), Craft (Int), Fly (Dex), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
 - Skill Ranks per Level: 2 + Int modifier + 1 human = 6/lvl = 54
 
-## History
-- Has a history with Ava, saw the potential as a kid even saw a few things that were way beyond their age
-- was a bit shunned in lack of strength, but made up for it in Arcane mastery
-- The Arcane Academy At Darthon
-- Is in the last year of the Academy
-- Odd things are happening and the (head professor) has gone missing
-- Is there a connection between my character and the (head professor)
-
-## Description
-- Colya Odoacer, Age 19, Female
-- Barbarian Arcanist
-- 5'8", Dark tangled hair, brown eyes
-- Fur cloak, shin high boot, standard pants, full sleeve shirt with, sash of small pocket, belt, bracers, war paint
-
-## Languages = lvl 9 = 3 ranks
+## Languages = lvl 9 = 9 ranks
 - Common - base
 - Barbarian - base
-- Dwarven - learned
+- Learned: Dwarven, Orc, Ignan, Giant, Elven, Druidic, Draconic, Abyssal + (1 ask josh)
 
 ## Starting Gold 46,000 gp
 - Note: no stat boosting items
-- boots of air walk?
-- ring of protection
+- 750 wand of cure light wounds ???
+- 9000 - Cloak of Resistance + 3 - (Fort, Ref, and Will)
+- 18000 - ring of protection + 3 - AC
+- 27750 total
+- 18250 left
 
 ## 2 Traits
 - [Focused Mind +2 trait bonus on concentration](http://www.d20pfsrd.com/traits/magic-traits/focused-mind)
@@ -133,3 +122,41 @@ Seeds of Wrath Season Two
 - [Dragon's Breath](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
 - [*Invisibility, Greater](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 - [Acid Pit](http://www.d20pfsrd.com/magic/all-spells/a/acid-pit)
+
+History & personality
+==========
+
+Worshiping the god of fire as she understood it Colya honed her innate abilities to bend and craft magic in ways her pier feared at times. Growing up Colya had few companions only one of which did she feel comfortable showing her full skill too. Though there were many times in which Colya could see something her fiend that was more than she could fathom, it was truly awesome and at time a bit frightful. Colya new her friend would be great one day.
+
+Colya traveled to the local school to seek training and grow in her skills. By her 19th year she had become truly skilled to level far greater than her childhood kin could comprehend. When she visited home he only ever showed her lesser magics performing minor prestidigitations and dancing orbs or small lights. She felt it best to keep her family and their kin from the full truth of her abilities.
+
+Growing up as an innate magic user cause her many heart aches and taught her many hard lessons, but when she returned to her home after many years she never returned any favors of pain upon those who would cause her more disgrace. Rather she employed her skills tactfully keeping them at an arms length and removing herself from their awareness before they could make fools of themselves.
+
+Colya is currently in her final year of school and has recently heard rumor of epic proportion and sleepless over finding a lead.
+
+## History
+- Has a history with Ava, saw the potential as a kid even saw a few things that were way beyond their age
+- was a bit shunned in lack of strength, but made up for it in Arcane mastery
+- The Arcane Academy At Darthon
+- Is in the last year of the Academy
+- Odd things are happening and the (head professor) has gone missing
+- Is there a connection between my character and the (head professor)
+
+## Description
+- Colya Odoacer, Age 19, Female
+- Barbarian Arcanist
+- 5'8", Dark tangled hair, brown eyes
+- Fur cloak, shin high boot, standard pants, full sleeve shirt with, sash of small pocket, belt, bracers, war paint
+
+### random character traits
+- Appreciate music, art, and drama and, if given training, could excel in those fields.
+- Self-consciousness may prevent her from feeling at ease in positions of impromptu expression.
+- Desiring to be free from detail and monotony, she finds it difficult to finish what she starts if it does not hold her interest.
+- She enjoy reading and the beauties of nature, experiencing peace and relaxation in outdoor activities.
+- A very individual, independent person, she lives within her own thoughts.
+- With acquaintances and strangers, she tends to be reticent and reserved.
+- Her friends never know whether they will find her friendly and charming or lost in introspection.
+- When unhappy or disappointed, she can be moody and temperamental
+- She will go out of your way to help others, and find it difficult to say "no" and mean it.
+- Others impose on her generosity at times.
+- She enjoys sweets and starchy foods.
