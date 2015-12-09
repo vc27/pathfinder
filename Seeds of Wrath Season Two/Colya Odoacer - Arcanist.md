@@ -17,6 +17,10 @@ Issues, Notes, Current task
 
 ### Notes
 
+- Ability score int was added at first and third level meaning that skill for first and second were +4 int
+- HP: 3,2,3,2,3,2,3,2,3 = 23 + 9 + 9 = 41
+
+
 Seeds of Wrath Season Two
 ====================
 
@@ -53,7 +57,7 @@ Seeds of Wrath Season Two
 - lvl 9: [Spell Penetration, Greater + 2](http://www.d20pfsrd.com/feats/general-feats/greater-spell-penetration---final)
 
 ## Specials
-- [Arcane reservoir](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Arcane-Reservoir-Su-)
+- [Arcane reservoir](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Arcane-Reservoir-Su-) daily-fill: 3 + 1/2lvl, max: 3+lvl
 - [Arcanist exploit](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Arcanist-Exploits)
 - [Cantrips](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Cantrips)
 - [Consume spells](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Consume-Spells-Su-)
