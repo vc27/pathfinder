@@ -47,9 +47,12 @@ Seeds of Wrath Season Two
 - 27750 total
 - 18250 left
 
-## 2 Traits
+## 2 Traits + concentration check
 - [Focused Mind +2 trait bonus on concentration](http://www.d20pfsrd.com/traits/magic-traits/focused-mind)
 - [Desperate Resolve +1 concentration +4 concentration-when-grappled](http://www.d20pfsrd.com/traits/magic-traits/desperate-resolve)
+- [Concentration check](http://www.d20pfsrd.com/magic#TOC-Concentration)
+- Cast defensively	15 + double spell level
+- Grappled or pinned while casting	10 + grappler's CMB + spell level
 
 ## Feats
 - lvl 1: [Iron Will +2](http://www.d20pfsrd.com/feats/general-feats/iron-will---final), [Combat Casting +4 casting defensively](http://www.d20pfsrd.com/feats/general-feats/combat-casting---final)
@@ -85,7 +88,7 @@ Seeds of Wrath Season Two
 - [Message](http://www.d20pfsrd.com/magic/all-spells/m/message)
 - [Prestidigitation](http://www.d20pfsrd.com/magic/all-spells/p/prestidigitation)
 
-### [1 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
+### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 7(5+2) Prepared, 7 known
 - [Alarm](http://www.d20pfsrd.com/magic/all-spells/a/alarm)
 - [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
@@ -98,7 +101,7 @@ Seeds of Wrath Season Two
 #### Alt
 - [Enlarge Person](http://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)
 
-### [2 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
+### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 5(4+1) Prepared, 4 known
 - [Share Memory](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
 - [Touch of Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
@@ -111,7 +114,7 @@ Seeds of Wrath Season Two
 - [Bull's Strength](http://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength)
 - [Defensive Shock](http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock)
 
-### [3 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
+### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 4(3+1) Prepared, 4 known
 - [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
 - [Lightning Bolt](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
@@ -121,7 +124,7 @@ Seeds of Wrath Season Two
 #### Alt
 - [Wall of Nausea](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea)
 
-### [4 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
+### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 3 slots/day, 3(2+1) Prepared, 4 known
 - [Stoneskin](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)
 - [Dragon's Breath](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
