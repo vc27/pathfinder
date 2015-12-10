@@ -68,7 +68,8 @@ Seeds of Wrath Season Two
 - [Consume spells](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist#TOC-Consume-Spells-Su-)
 - [Intelligence bonus](http://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Table:-Ability-Modifiers-and-Bonus-Spells)
 
-## [Exploits - Charisma](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits)
+## [Exploits - Charisma DC-15](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits)
+- DC = 10 + 4(1/2lvl) + 1(cha)
 - lvl 1: [Potent Magic](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/potent-magic-su)
 - lvl 3: [Dimensional Slide - dimensiva trabea](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/dimensional-slide-su)
 - lvl 5: [Flame Arc - flamma curvata](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/flame-arc-su)
