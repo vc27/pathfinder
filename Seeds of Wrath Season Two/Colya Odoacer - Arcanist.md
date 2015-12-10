@@ -100,23 +100,23 @@ Seeds of Wrath Season Two
 
 ### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 5(4+1) Prepared, 4 known
-- [Share Memory](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
-- [Touch of Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
-- [*Invisibility](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
-- [Scorching Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
+- [Share Memory - sumus unanimes](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
+- [Touch of Idiocy - Tactu Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
+- [*Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- [Scorching Ray - rapidi Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
 
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 4(3+1) Prepared, 4 known
 - [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
-- [Lightning Bolt](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
-- [Fireball](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
-- [Shrink Item](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
+- [Lightning Bolt - fulmine fulmine](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
+- [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
+- [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 3 slots/day, 3(2+1) Prepared, 4 known
-- [Stoneskin](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)
-- [Dragon's Breath](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
-- [*Invisibility, Greater](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- [Stoneskin - lapidem cutis](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)
+- [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
+- [*Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 - [Acid Pit](http://www.d20pfsrd.com/magic/all-spells/a/acid-pit)
 
 History & personality
