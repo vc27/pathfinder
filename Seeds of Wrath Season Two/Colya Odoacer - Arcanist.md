@@ -19,6 +19,7 @@ Issues, Notes, Current task
 
 - Ability score int was added at first and third level meaning that skill for first and second were +4 int
 - HP: 3,2,3,2,3,2,3,2,3 = 23 + 9 + 9 = 41
+- 6,4,3,4,3,4,3,4,3 = 30 + 9 + 9 = 48
 
 
 Seeds of Wrath Season Two
@@ -42,6 +43,7 @@ Seeds of Wrath Season Two
 - 750 wand of cure light wounds ???
 - 9000 - Cloak of Resistance + 3 - (Fort, Ref, and Will)
 - 18000 - ring of protection + 3 - AC
+
 - 27750 total
 - 18250 left
 
@@ -84,7 +86,7 @@ Seeds of Wrath Season Two
 - [Prestidigitation](http://www.d20pfsrd.com/magic/all-spells/p/prestidigitation)
 
 ### [1 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
-- 5 Prepared, 4 slots per day, 7 known
+- 4 slots/day, 7(5+2) Prepared, 7 known
 - [Alarm](http://www.d20pfsrd.com/magic/all-spells/a/alarm)
 - [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
 - [Mage Armor](http://www.d20pfsrd.com/magic/all-spells/m/mage-armor)
@@ -97,7 +99,7 @@ Seeds of Wrath Season Two
 - [Enlarge Person](http://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)
 
 ### [2 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
-- 4 Prepared, 4 slots per day, 4 known
+- 4 slots/day, 5(4+1) Prepared, 4 known
 - [Share Memory](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
 - [Touch of Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
 - [*Invisibility](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
@@ -110,7 +112,7 @@ Seeds of Wrath Season Two
 - [Defensive Shock](http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock)
 
 ### [3 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
-- 3 Prepared, 4 slots per day, 4 known
+- 4 slots/day, 4(3+1) Prepared, 4 known
 - [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
 - [Lightning Bolt](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
 - [Fireball](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
@@ -120,7 +122,7 @@ Seeds of Wrath Season Two
 - [Wall of Nausea](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea)
 
 ### [4 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
-- 2 Prepared, 3 slots per day, 4 known
+- 3 slots/day, 3(2+1) Prepared, 4 known
 - [Stoneskin](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)
 - [Dragon's Breath](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
 - [*Invisibility, Greater](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
