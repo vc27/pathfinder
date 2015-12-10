@@ -70,8 +70,8 @@ Seeds of Wrath Season Two
 
 ## [Exploits - Charisma](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits)
 - lvl 1: [Potent Magic](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/potent-magic-su)
-- lvl 3: [Dimensional Slide](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/dimensional-slide-su)
-- lvl 5: [Flame Arc](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/flame-arc-su)
+- lvl 3: [Dimensional Slide - dimensiva trabea](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/dimensional-slide-su)
+- lvl 5: [Flame Arc - flamma curvata](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/flame-arc-su)
 - lvl 7: [Quick Study](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/quick-study-su)
 - lvl 9: [Swift Consume](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/swift-consume-ex)
 
