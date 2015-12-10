@@ -98,9 +98,6 @@ Seeds of Wrath Season Two
 - [Ray of Enfeeblement](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement)
 - [Shocking Grasp](http://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp)
 
-#### Alt
-- [Enlarge Person](http://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)
-
 ### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 5(4+1) Prepared, 4 known
 - [Share Memory](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
@@ -108,21 +105,12 @@ Seeds of Wrath Season Two
 - [*Invisibility](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 - [Scorching Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
 
-#### Alt
-- [Blur](http://www.d20pfsrd.com/magic/all-spells/b/blur)
-- [Blindness/Deafness](http://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness)
-- [Bull's Strength](http://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength)
-- [Defensive Shock](http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock)
-
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 4 slots/day, 4(3+1) Prepared, 4 known
 - [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
 - [Lightning Bolt](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
 - [Fireball](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
 - [Shrink Item](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
-
-#### Alt
-- [Wall of Nausea](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea)
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 3 slots/day, 3(2+1) Prepared, 4 known
@@ -168,3 +156,24 @@ Colya is currently in her final year of school and has recently heard rumor of e
 - She will go out of your way to help others, and find it difficult to say "no" and mean it.
 - Others impose on her generosity at times.
 - She enjoys sweets and starchy foods.
+
+## [Alt Spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard)
+- Consider these when leveling up
+
+### [0 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-0-Level-Sorcerer-Wizard-Spells-Cant)
+- none
+
+### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
+- [Enlarge Person](http://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)
+
+### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
+- [Blur](http://www.d20pfsrd.com/magic/all-spells/b/blur)
+- [Blindness/Deafness](http://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness)
+- [Bull's Strength](http://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength)
+- [Defensive Shock](http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock)
+
+### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
+- [Wall of Nausea](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea)
+
+### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
+- none
