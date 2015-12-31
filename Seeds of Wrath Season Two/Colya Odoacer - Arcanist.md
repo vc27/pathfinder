@@ -2,24 +2,15 @@ Issues, Notes, Current task
 ====================
 
 ### Current Task
-- x Spells
-- Skills - put skills in linguistics
 - Languages
-- x Exploits
-- Gear
-- Spend Gold
-- Find base AC
-- Find base att
-- Find base DMG
-- Build grid sheet
+- 
 
 ### Issues
 
 ### Notes
 
 - Ability score int was added at first and third level meaning that skill for first and second were +4 int
-- HP: 3,2,3,2,3,2,3,2,3 = 23 + 9 + 9 = 41
-- 6,4,3,4,3,4,3,4,3 = 30 + 9 + 9 = 48
+- HP: 6,4,3,4,3,4,3,4,3 = 30 + 9 + 9 = 48
 
 
 Seeds of Wrath Season Two
