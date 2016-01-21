@@ -3,7 +3,7 @@ Issues, Notes, Current task
 
 ### Current Task
 - Languages
-- 
+-
 
 ### Issues
 
@@ -103,6 +103,7 @@ Seeds of Wrath Season Two
 - [Lightning Bolt - fulmine fulmine](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
 - [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
 - [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
+- [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion)
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 3 slots/day, 3(2+1) Prepared, 4 known
