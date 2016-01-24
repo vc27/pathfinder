@@ -70,7 +70,7 @@ Seeds of Wrath Season Two
 ## [Spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard)
 
 ### [0 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-0-Level-Sorcerer-Wizard-Spells-Cant)
-- 8 Prepared, unlimited per day
+- unlimited Spells per Day, 8 Spells Prepared
 - [Dancing Lights](http://www.d20pfsrd.com/magic/all-spells/d/dancing-lights)
 - [Light](http://www.d20pfsrd.com/magic/all-spells/l/light)
 - [Disrupt Undead](http://www.d20pfsrd.com/magic/all-spells/d/disrupt-undead)
@@ -81,36 +81,34 @@ Seeds of Wrath Season Two
 - [Prestidigitation](http://www.d20pfsrd.com/magic/all-spells/p/prestidigitation)
 
 ### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
-- 4 slots/day, 7(5+2) Prepared, 7 known
-- [Alarm](http://www.d20pfsrd.com/magic/all-spells/a/alarm)
+- 6(4+2) Spells per Day, 5 Spells Prepared
 - [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
 - [Mage Armor](http://www.d20pfsrd.com/magic/all-spells/m/mage-armor)
 - [Identify](http://www.d20pfsrd.com/magic/all-spells/i/identify)
 - [Magic Missile](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)
 - [Ray of Enfeeblement](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement)
-- [Shocking Grasp](http://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp)
 
 ### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
-- 4 slots/day, 5(4+1) Prepared, 4 known
+- 5(4+1) Spells per Day, 4 Spells Prepared
 - [Share Memory - sumus unanimes](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
 - [Touch of Idiocy - Tactu Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
 - [*Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 - [Scorching Ray - rapidi Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
 
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
-- 4 slots/day, 4(3+1) Prepared, 4 known
+- 5(4+1) Spells per Day, 3 Spells Prepared
 - [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
-- [Lightning Bolt - fulmine fulmine](http://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt)
 - [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
 - [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
-- [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion)
+- [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
-- 3 slots/day, 3(2+1) Prepared, 4 known
-- [Stoneskin - lapidem cutis](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)
+- 4(3+1) Spells per Day, 2 Spells Prepared
 - [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
 - [*Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
-- [Acid Pit](http://www.d20pfsrd.com/magic/all-spells/a/acid-pit)
+
+### [5 lvl, DC-20](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-5th-Level-Sorcerer-Wizard-Spells)
+- 3(2+1) Spells per Day, 1 Spells Prepared
 
 History & personality
 ==========
