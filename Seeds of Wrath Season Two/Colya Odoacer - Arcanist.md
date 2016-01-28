@@ -18,7 +18,7 @@ Seeds of Wrath Season Two
 
 - https://a-garden-of-war.obsidianportal.com/wikis/main-page
 
-### [Arcanist 9th lvl](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist)
+### [Arcanist 10th lvl](http://www.d20pfsrd.com/classes/hybrid-classes/arcanist)
 
 - Female - Colya
 - http://www.kabalarians.com/Male/colya.htm
@@ -70,7 +70,7 @@ Seeds of Wrath Season Two
 ## [Spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard)
 
 ### [0 lvl spells](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-0-Level-Sorcerer-Wizard-Spells-Cant)
-- unlimited Spells per Day, 8 Spells Prepared
+- unlimited Spells per Day, 9 Spells Prepared
 - [Dancing Lights](http://www.d20pfsrd.com/magic/all-spells/d/dancing-lights)
 - [Light](http://www.d20pfsrd.com/magic/all-spells/l/light)
 - [Disrupt Undead](http://www.d20pfsrd.com/magic/all-spells/d/disrupt-undead)
@@ -79,6 +79,7 @@ Seeds of Wrath Season Two
 - [Mending](http://www.d20pfsrd.com/magic/all-spells/m/mending)
 - [Message](http://www.d20pfsrd.com/magic/all-spells/m/message)
 - [Prestidigitation](http://www.d20pfsrd.com/magic/all-spells/p/prestidigitation)
+- [Spark](http://www.d20pfsrd.com/magic/all-spells/s/spark)
 
 ### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
 - 6(4+2) Spells per Day, 5 Spells Prepared
@@ -103,12 +104,14 @@ Seeds of Wrath Season Two
 - [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
-- 4(3+1) Spells per Day, 2 Spells Prepared
+- 5(4+1) Spells per Day, 2 Spells Prepared
 - [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
 - [*Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 
 ### [5 lvl, DC-20](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-5th-Level-Sorcerer-Wizard-Spells)
 - 3(2+1) Spells per Day, 1 Spells Prepared
+- [Telepathic Bond](http://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond)
+- [Telekinesis](http://www.d20pfsrd.com/magic/all-spells/t/telekinesis)
 
 History & personality
 ==========
