@@ -111,7 +111,7 @@ Seeds of Wrath Season Two
 ### [5 lvl, DC-20](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-5th-Level-Sorcerer-Wizard-Spells)
 - 3(2+1) Spells per Day, 1 Spells Prepared
 - [Telepathic Bond](http://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond)
-- [Telekinesis](http://www.d20pfsrd.com/magic/all-spells/t/telekinesis)
+- x[Telekinesis](http://www.d20pfsrd.com/magic/all-spells/t/telekinesis)
 
 History & personality
 ==========
