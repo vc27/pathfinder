@@ -38,6 +38,9 @@ Seeds of Wrath Season Two
 - 27750 total
 - 18250 left
 
+## Gear
+- [Belt of Equilibrium](http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/belt-of-equilibrium)
+
 ## 2 Traits + concentration check
 - [Focused Mind +2 trait bonus on concentration](http://www.d20pfsrd.com/traits/magic-traits/focused-mind)
 - [Desperate Resolve +1 concentration +4 concentration-when-grappled](http://www.d20pfsrd.com/traits/magic-traits/desperate-resolve)
@@ -93,8 +96,11 @@ Seeds of Wrath Season Two
 - 5(4+1) Spells per Day, 4 Spells Prepared
 - [Share Memory - sumus unanimes](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
 - [Touch of Idiocy - Tactu Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
-- [*Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- [Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
 - [Scorching Ray - rapidi Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
+- [Bears Endurance](http://www.d20pfsrd.com/magic/all-spells/b/bear-s-endurance) - added from scroll
+- [Mirror Image](http://www.d20pfsrd.com/magic/all-spells/m/mirror-image) - added from scroll
+- [False Life](http://www.d20pfsrd.com/magic/all-spells/f/false-life) - added from scroll
 
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 3 Spells Prepared
@@ -102,11 +108,13 @@ Seeds of Wrath Season Two
 - [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
 - [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
 - [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
+- [Secret Page](http://www.d20pfsrd.com/magic/all-spells/s/secret-page) - added from scroll
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 2 Spells Prepared
 - [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
-- [*Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- [Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- [Black Tentacles](http://www.d20pfsrd.com/magic/all-spells/b/black-tentacles) - added from scroll
 
 ### [5 lvl, DC-20](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-5th-Level-Sorcerer-Wizard-Spells)
 - 3(2+1) Spells per Day, 1 Spells Prepared
