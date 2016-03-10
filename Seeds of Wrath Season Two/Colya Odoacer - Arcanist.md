@@ -89,10 +89,10 @@ Seeds of Wrath Season Two
 
 ### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
 - 6(4+2) Spells per Day, 5 Spells Prepared
-- 0 [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
+- 1 [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
 - 1 [Mage Armor](http://www.d20pfsrd.com/magic/all-spells/m/mage-armor)
-- 0 [Identify](http://www.d20pfsrd.com/magic/all-spells/i/identify)
-- 3 [Magic Missile](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)
+- 1 [Identify](http://www.d20pfsrd.com/magic/all-spells/i/identify)
+- 1 [Magic Missile](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)
 - 1 [Ray of Enfeeblement](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement)
 
 ### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
@@ -108,9 +108,9 @@ Seeds of Wrath Season Two
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 3 Spells Prepared
 - 1 [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
-- 2 [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
+- 1 [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
 - 0 [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
-- 0 [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
+- 1 [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
 - 0 [Secret Page](http://www.d20pfsrd.com/magic/all-spells/s/secret-page) - added from scroll
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
