@@ -89,39 +89,39 @@ Seeds of Wrath Season Two
 
 ### [1 lvl, DC-16](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-1st-Level-Sorcerer-Wizard-Spells)
 - 6(4+2) Spells per Day, 5 Spells Prepared
-- [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
-- [Mage Armor](http://www.d20pfsrd.com/magic/all-spells/m/mage-armor)
-- [Identify](http://www.d20pfsrd.com/magic/all-spells/i/identify)
-- [Magic Missile](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)
-- [Ray of Enfeeblement](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement)
+- 0 [Shield](http://www.d20pfsrd.com/magic/all-spells/s/shield)
+- 1 [Mage Armor](http://www.d20pfsrd.com/magic/all-spells/m/mage-armor)
+- 0 [Identify](http://www.d20pfsrd.com/magic/all-spells/i/identify)
+- 3 [Magic Missile](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)
+- 1 [Ray of Enfeeblement](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement)
 
 ### [2 lvl, DC-17](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-2nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 4 Spells Prepared
-- [Share Memory - sumus unanimes](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
-- [Touch of Idiocy - Tactu Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
-- [Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
-- [Scorching Ray - rapidi Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
-- [Bears Endurance](http://www.d20pfsrd.com/magic/all-spells/b/bear-s-endurance) - added from scroll
-- [Mirror Image](http://www.d20pfsrd.com/magic/all-spells/m/mirror-image) - added from scroll
-- [False Life](http://www.d20pfsrd.com/magic/all-spells/f/false-life) - added from scroll
+- 0 [Share Memory - sumus unanimes](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)
+- 1 [Touch of Idiocy - Tactu Idiocy](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)
+- 1 [Invisibility - occultum](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- 1 [Scorching Ray - rapidi Ray](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)
+- 0 [Bears Endurance](http://www.d20pfsrd.com/magic/all-spells/b/bear-s-endurance) - added from scroll
+- 1 [Mirror Image](http://www.d20pfsrd.com/magic/all-spells/m/mirror-image) - added from scroll
+- 0 [False Life](http://www.d20pfsrd.com/magic/all-spells/f/false-life) - added from scroll
 
 ### [3 lvl, DC-18](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-3nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 3 Spells Prepared
-- [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
-- [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
-- [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
-- [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
-- [Secret Page](http://www.d20pfsrd.com/magic/all-spells/s/secret-page) - added from scroll
+- 1 [Haste](http://www.d20pfsrd.com/magic/all-spells/h/haste)
+- 2 [Fireball - Ignis tondendas mortis](http://www.d20pfsrd.com/magic/all-spells/f/fireball)
+- 0 [Shrink Item - subtraxerim utilium](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)
+- 0 [Suggestion](http://www.d20pfsrd.com/magic/all-spells/s/suggestion) - added from scroll
+- 0 [Secret Page](http://www.d20pfsrd.com/magic/all-spells/s/secret-page) - added from scroll
 
 ### [4 lvl, DC-19](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-4nd-Level-Sorcerer-Wizard-Spells)
 - 5(4+1) Spells per Day, 2 Spells Prepared
-- [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
-- [Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
-- [Black Tentacles](http://www.d20pfsrd.com/magic/all-spells/b/black-tentacles) - added from scroll
+- 1 [Dragon's Breath - Dracones flatus aes](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)
+- 0 [Invisibility, Greater - transmigrabis autem de visione](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)
+- 1 [Black Tentacles](http://www.d20pfsrd.com/magic/all-spells/b/black-tentacles) - added from scroll
 
 ### [5 lvl, DC-20](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists---sorcerer-and-wizard#TOC-5th-Level-Sorcerer-Wizard-Spells)
 - 3(2+1) Spells per Day, 1 Spells Prepared
-- [Telepathic Bond](http://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond)
+- 1 [Telepathic Bond](http://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond)
 - x[Telekinesis](http://www.d20pfsrd.com/magic/all-spells/t/telekinesis)
 
 History & personality
