@@ -48,6 +48,9 @@ Seeds of Wrath Season Two
 - Cast defensively	15 + double spell level
 - Grappled or pinned while casting	10 + grappler's CMB + spell level
 
+## Boons
+- *Magical Barrage*: Attack during the ranged phase with a bonus to OM for ranged attacks only. Equal to 1/2 the level of the highest level spell that the character granting the boon is able to cast
+
 ## Feats
 - lvl 1: [Iron Will +2](http://www.d20pfsrd.com/feats/general-feats/iron-will---final), [Combat Casting +4 casting defensively](http://www.d20pfsrd.com/feats/general-feats/combat-casting---final)
 - lvl 3: [Toughness +1 hp/lvl](http://www.d20pfsrd.com/feats/general-feats/toughness---final)
