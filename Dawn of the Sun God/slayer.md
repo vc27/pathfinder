@@ -5,10 +5,10 @@
 - nothing
 
 ### Hit Die: d10
-- 1lvl = 6(d) + 3(toughness) + 1(lvl) = 10
-- 2lvl = 5(d) + 0(toughness) + 1(lvl) = 16
-- 3lvl = 6(d) + 0(toughness) + 1(lvl) = 23
-- 4lvl = 5(d) + 1(toughness) + 1(lvl) = 30
+- 1lvl = 10(d) + 3(toughness) + 1(lvl) = 14
+- 2lvl = 5(d) + 0(toughness) + 1(lvl) = 6
+- 3lvl = 6(d) + 0(toughness) + 1(lvl) = 7
+- 4lvl = 5(d) + 1(toughness) + 1(lvl) = 7
 
 ### Weapon and Armor Proficiency
 - [Khopesh](http://www.d20pfsrd.com/equipment---final/weapons/weapon-descriptions/khopesh), 20gp, 1d8, 19-20/x2, slashing - weapon is exotic, but the slayer is from egypt
