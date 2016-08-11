@@ -55,4 +55,5 @@
 - Bedroll - 1s
 - Waterskin - 1g
 - Backpack, common - 2g 2lb
-- disguise kit - 50g
+- Disguise Kit, 50g
+- Thieves Tools, Masterwork, 100gp, 2lbs
