@@ -62,3 +62,5 @@
 - [Black adder venom, x3, 120gp/each = 360gp ](http://www.d20pfsrd.com/gamemastering/afflictions/poison/black-adder-venom)
 - [Medium Spider Venom, x3, 150gp/each = 450gp ](http://www.d20pfsrd.com/gamemastering/afflictions/poison/medium-spider-venom)
 - [Oil of taggit, 1x, 90gp](http://www.d20pfsrd.com/gamemastering/afflictions/poison/oil-of-taggit)
+- [Blowgun](http://www.d20pfsrd.com/equipment---final/weapons/weapon-descriptions/blowgun)
+- [Ammunition (Blowgun): Darts (10)5sp](http://www.d20pfsrd.com/equipment---final/weapons/weapon-descriptions/ammunition/ammunition-blowgun-darts)
