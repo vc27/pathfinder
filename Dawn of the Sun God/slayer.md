@@ -1,4 +1,4 @@
-### Kekeu - Kuk : slayer - from Kush
+	### Kekeu - Kuk : slayer - from Kush
 - http://www.d20pfsrd.com/classes/hybrid-classes/slayer
 
 ### Magic Items
@@ -9,6 +9,7 @@
 - 2lvl = 5(d) + 0(toughness) + 1(lvl) = 6
 - 3lvl = 6(d) + 0(toughness) + 1(lvl) = 7
 - 4lvl = 5(d) + 1(toughness) + 1(lvl) = 7
+- 5lvl = 6(d) + 1(toughness) + 1(lvl) = 8
 
 ### Weapon and Armor Proficiency
 - [Khopesh](http://www.d20pfsrd.com/equipment---final/weapons/weapon-descriptions/khopesh), 20gp, 1d8, 19-20/x2, slashing - weapon is exotic, but the slayer is from egypt
@@ -46,10 +47,13 @@
 - lvl2 = [Slayer talent: Trapfinding] Disable Device skill, [trapfinding](http://www.d20pfsrd.com/classes/core-classes/rogue#TOC-Trapfinding), [trap sense](http://www.d20pfsrd.com/classes/core-classes/rogue#TOC-Trap-Sense-Ex-)
 - lvl3 = Sneak attack +1d6
 - lvl4 = [Slayer talent: Poison Use](http://www.d20pfsrd.com/gamemastering/afflictions/poison#TOC-Applying-Poison) Trained in poison use, and cannot accidentally poison self when applying poison
+- lvl1 = [Studied target 2]
 
 ### Feats
 - lvl1 = [2] [toughness](http://www.d20pfsrd.com/feats/general-feats/toughness---final), [Iron Will](http://www.d20pfsrd.com/feats/general-feats/iron-will---final)
 - lvl3 = [1] [Mobility](http://www.d20pfsrd.com/feats/combat-feats/mobility-combat---final)
+- lvl5 = [1] [Dodge](http://www.d20pfsrd.com/feats/combat-feats/dodge-combat---final)
+- next? lvl7 = [1] [Sidestep](http://www.d20pfsrd.com/feats/combat-feats/sidestep-combat)
 
 ### Gear --> 175
 - Bedroll - 1s
