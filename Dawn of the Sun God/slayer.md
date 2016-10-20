@@ -1,4 +1,4 @@
-	### Kekeu - Kuk : slayer - from Kush
+### Kekeu - Kuk : slayer - from Kush
 - http://www.d20pfsrd.com/classes/hybrid-classes/slayer
 
 ### Magic Items
