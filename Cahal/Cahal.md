@@ -75,7 +75,7 @@ We hail from Aonar region and travel under the emblem of the Root Bound Brotherh
 - Arcane Spell Failure Chance - 30 ft. / 20 ft.
 - Speed	Weight - 15 lbs.
 
-### Wild Armor
+### [Wild Armor](http://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/wild/)
 - Aura moderate transmutation
 - CL 9th
 - Weight —
@@ -131,7 +131,7 @@ Armor with this special ability usually appears to be made from magically harden
 - [Wild Shape (Su)](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/#TOC-Wild-Shape-Su-) 3/day
 
 ### lvl 9:
-- [Venom Immunity](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Venom-Immunity-Ex-)
+- [Bonus Feat](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 
 ### lvl 10:
 - [Wild Shape (Su)](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/#TOC-Wild-Shape-Su-) 4/day
@@ -163,6 +163,8 @@ Armor with this special ability usually appears to be made from magically harden
 ### lvl 9
 - [Aspect of the Beast](http://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast/) - Predator’s Leap
 - You can make a running jump without needing to run 10 feet before you jump.
+- [Flyby Attack](http://www.d20pfsrd.com/feats/monster-feats/flyby-attack) - Bonus Feat [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
+- *Benefit:* When flying, the creature can take a move action and another standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack. *Normal:* Without this feat, the creature takes a standard action either before or after its move.
 
 ### lvl 11
 - ??
