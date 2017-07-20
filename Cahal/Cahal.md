@@ -1,13 +1,16 @@
-[Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
+# [Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
 [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 
 - Race: Human - Cahal
 - Bonus Ability Score: 2
 - Starting Wealth: 33,070 gold
 - Language: Sylvan, Druidic, Common
-- Hit Die: d8
 
-## HP - 104
+My name is Cahal, I’ve traveled far to make it to the Skyrealm. This is my companion Arley whom has been at my side for nearly a decade. As you may have guessed our travels to the Skyrealm appear to be quite obvious, we have a great interest in this culture though we’ve only read tales of it’s past.
+
+We hail from Aonar region and travel under the emblem of the Root Bound Brotherhood. If you are not familiar with Aonar it is from a much different environment, and we are quite fascinated and eager to travel north to see the Viridian forest. We’ve heard the most fascinating tail of history and want know more, but first we must pass through Brokenbridge.
+
+### HP - 104 - Hit Die: d8
 1. 11 = 5, 3 (Toughness), 2 (con), 1 (favored class)
 2. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
 3. 09 = 5, 1 (Toughness), 2 (con), 1 (favored class)
@@ -20,10 +23,6 @@
 10. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
 11. 09 = 5, 1 (Toughness), 2 (con), 1 (favored class)
 12. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
-
-My name is Cahal, I’ve traveled far to make it to the Skyrealm. This is my companion Arley whom has been at my side for nearly a decade. As you may have guessed our travels to the Skyrealm appear to be quite obvious, we have a great interest in this culture though we’ve only read tales of it’s past.
-
-We hail from Aonar region and travel under the emblem of the Root Bound Brotherhood. If you are not familiar with Aonar it is from a much different environment, and we are quite fascinated and eager to travel north to see the Viridian forest. We’ve heard the most fascinating tail of history and want know more, but first we must pass through Brokenbridge.
 
 ### Wand Barkskin
 - 25 charges left
