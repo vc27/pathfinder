@@ -91,7 +91,7 @@ Armor with this special ability usually appears to be made from magically harden
 # Special
 
 ### lvl 1:
-- [Nature bond](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Nature-Bond-Ex-): [Eagle](http://www.d20pfsrd.com/bestiary/monster-listings/animals/eagle): [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
+- [Nature bond](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Nature-Bond-Ex-): [Eagle](http://www.d20pfsrd.com/bestiary/monster-listings/animals/birds/eagle/): [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 - [Nature sense](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Nature-Sense-Ex-)
 - [Orisons](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Orisons-Sp-)
 - [Wild empathy](http://www.d20pfsrd.com/classes/core-classes/druid#TOC-Wild-Empathy-Ex-): [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
@@ -167,7 +167,8 @@ Armor with this special ability usually appears to be made from magically harden
 - *Benefit:* When flying, the creature can take a move action and another standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack. *Normal:* Without this feat, the creature takes a standard action either before or after its move.
 
 ### lvl 11
-- ??
+- [Death from Above](http://www.d20pfsrd.com/feats/death-from-above-combat)
+- Gain +5 bonus on attack rolls when charging from higher ground or flying
 
 # Traits
 
@@ -206,59 +207,43 @@ Armor with this special ability usually appears to be made from magically harden
 
 # [Beast Shape](http://www.d20pfsrd.com/magic/all-spells/b/beast-shape/)
 
+- 2 talons +3 (1d4)
+- bite +3 (1d4)
+
 ### Diminutive
 - fly: 90ft
 - height: 6 in. - 1 ft.
 - weight: 1/8 lb. - 1 lb.
 - space: 1 ft.
-- +6 Dex = +3
-- -4 Str = -2
+- +3 Dex
+- -2 Str
 - +1 natural armor
 
-### Tiny magical
+### Tiny
 - fly: 120ft
 - height: 1 ft. - 2 ft.
 - weight: 1 lb. - 8 lb.
 - space: 2½ ft.
-- +8 Dex = +4
-- -2 Str = -1
-- +3 natural armor
+- +2 Dex
+- -1 Str
+- +1 natural armor
 
-### Small magical
-- fly: 90ft
-- height: 2 ft. - 4 ft.
-- weight: 8 lb. - 60 lb.
-- space: 5 ft.
-- +4 Dex = +2
-- +0 Str
-- +2 natural armor
-
-### Medium magical
-- fly: 90ft
-- height: 4 ft. - 8 ft.
-- weight: 60 lb. - 500 lb.
-- space: 5 ft.
-- +0 Dex
-- +4 Str = +2
-- +4 natural armor
-
-### Large magical
+### Large
 - fly: 120ft
 - reach: 10ft
 - height: 16 ft. - 32 ft.
 - weight: 2 tons - 16 tons
 - space: 15 ft.
-- -2 Dex = -1
-- +6 Str = +3
-- +6 natural armor
-- +2 con = how much hp do I gain
+- -1 Dex
+- +2 Str
+- +4 natural armor
 
 ### Huge
-- fly: 90ft
 - reach: 15ft
 - height: 16 ft. - 32 ft.
 - weight: 2 tons - 16 tons
 - space: 15 ft.
-- -4 Dex = -2
-- +6 Str = +3
+- -2 Dex
+- +2 Str
 - +6 natural armor
+- 2 claws +7 (1d8+4), bite +7 (1d6+4)
