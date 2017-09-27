@@ -10,7 +10,7 @@ My name is Cahal, I’ve traveled far to make it to the Skyrealm. This is my com
 
 We hail from Aonar region and travel under the emblem of the Root Bound Brotherhood. If you are not familiar with Aonar it is from a much different environment, and we are quite fascinated and eager to travel north to see the Viridian forest. We’ve heard the most fascinating tail of history and want know more, but first we must pass through Brokenbridge.
 
-### HP - 104 - Hit Die: d8
+### HP - 113 - Hit Die: d8
 1. 11 = 5, 3 (Toughness), 2 (con), 1 (favored class)
 2. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
 3. 09 = 5, 1 (Toughness), 2 (con), 1 (favored class)
@@ -23,6 +23,7 @@ We hail from Aonar region and travel under the emblem of the Root Bound Brotherh
 10. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
 11. 09 = 5, 1 (Toughness), 2 (con), 1 (favored class)
 12. 08 = 4, 1 (Toughness), 2 (con), 1 (favored class)
+13. 09 = 5, 1 (Toughness), 2 (con), 1 (favored class)
 
 ### Wand Barkskin
 - 25 charges left
@@ -141,6 +142,11 @@ Armor with this special ability usually appears to be made from magically harden
 ### lvl 12:
 - [Wild Shape (Su)](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/#TOC-Wild-Shape-Su-) 5/day
 
+### lvl 13:
+- [A thousand faces](http://www.d20pfsrd.com/classes/core-classes/druid/#TOC-A-Thousand-Faces-Su-)
+- acts as [alter self](http://www.d20pfsrd.com/magic/all-spells/a/alter-self)
+- [Bonus Feat](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
+
 # Feats
 
 ### lvl 1
@@ -169,6 +175,10 @@ Armor with this special ability usually appears to be made from magically harden
 ### lvl 11
 - [Death from Above](http://www.d20pfsrd.com/feats/death-from-above-combat)
 - Gain +5 bonus on attack rolls when charging from higher ground or flying
+
+### lvl 13
+- [Aspect of the Beast](http://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast)
+- [Lightning Reflexes]()http://www.d20pfsrd.com/feats/general-feats/lightning-reflexes-final) [eagle-shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman)
 
 # Traits
 
