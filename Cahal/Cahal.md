@@ -145,7 +145,7 @@ Armor with this special ability usually appears to be made from magically harden
 ### lvl 13:
 - [A thousand faces](http://www.d20pfsrd.com/classes/core-classes/druid/#TOC-A-Thousand-Faces-Su-)
 - acts as [alter self](http://www.d20pfsrd.com/magic/all-spells/a/alter-self)
-- [Bonus Feat](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
+- [Eagle Shaman Bonus Feat](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 
 # Feats
 
