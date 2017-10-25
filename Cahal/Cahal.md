@@ -1,4 +1,4 @@
-# [Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
+z# [Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
 [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 
 - Race: Human - Cahal
@@ -177,8 +177,17 @@ Armor with this special ability usually appears to be made from magically harden
 - Gain +5 bonus on attack rolls when charging from higher ground or flying
 
 ### lvl 13
-- [Aspect of the Beast](http://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast)
-- [Lightning Reflexes]()http://www.d20pfsrd.com/feats/general-feats/lightning-reflexes-final) [eagle-shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman)
+- [Aspect of the Beast - Wild Instinct](http://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast) : You gain a +2 bonus on initiative checks and a +2 bonus on Survival skill checks.
+- [Lightning Reflexes](http://www.d20pfsrd.com/feats/general-feats/lightning-reflexes-final) [eagle-shaman] (http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman)
+
+# Mythic
+
+- [Hierophant](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/)
+- [Inspired Spell](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Inspired-Spell-Su-)
+- [Mythic Wild Shape](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Mythic-Wild-Shape-Su-)
+
+- Mythic Feats
+- [Aspect of the Beast - Mythic Instinct](http://www.d20pfsrd.com/mythic/mythic-feats/aspect-of-the-beast-mythic/)
 
 # Traits
 
