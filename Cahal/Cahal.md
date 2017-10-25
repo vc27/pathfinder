@@ -185,8 +185,6 @@ Armor with this special ability usually appears to be made from magically harden
 - [Hierophant](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/)
 - [Inspired Spell](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Inspired-Spell-Su-)
 - [Mythic Wild Shape](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Mythic-Wild-Shape-Su-)
-
-- Mythic Feats
 - [Aspect of the Beast - Mythic Instinct](http://www.d20pfsrd.com/mythic/mythic-feats/aspect-of-the-beast-mythic/)
 
 # Traits
