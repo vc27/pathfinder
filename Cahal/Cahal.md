@@ -1,4 +1,4 @@
-z# [Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
+# [Druid](http://www.d20pfsrd.com/classes/core-classes/druid)
 [Eagle Shaman](http://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/eagle-shaman/)
 
 - Race: Human - Cahal
