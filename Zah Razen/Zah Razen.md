@@ -13,8 +13,8 @@
 
 - Shield +2 AC
 - Bracers of armor +4 AC
-- (Cloak of resistance +3 = Fortitude, Reflex, Will)[http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/c-d/cloak-of-resistance/]
-- (Ring of protection +2 = AC)[http://www.d20pfsrd.com/magic-items/rings/ring-of-protection/]
+- [Cloak of resistance +3 = Fortitude, Reflex, Will](http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/c-d/cloak-of-resistance/)
+- [Ring of protection +2 = AC](http://www.d20pfsrd.com/magic-items/rings/ring-of-protection/)
 - Magic Shortspear +2 Dmg
 - Daggar
 
@@ -25,11 +25,11 @@
 - Book from the mideflare
 - Vile of mind flare blood
 
-### Celestial armor +6
+### Celestial armor +9
+- Chainmail +6, Magic +3
 - Max dex 8
 - Armor Penalty -2 Dex and Str
 - Fly once per day
-- Chainmail +6 AC
 
 ### Staff of journeis
 - Detect snares & pits
@@ -41,54 +41,54 @@
 
 Hit Dice D8
 
-(toughness)+(hd-average)+(con)+(+1/lvl)
+(toughness)+(hd-average)+(con)
 
-1. 11 = 3, 5, 2, 1
-2. 8 = 1, 4, 2, 1
-3. 9 = 1, 5, 2, 1
-4. 8 = 1, 4, 2, 1
-5. 9 = 1, 5, 2, 1
-6. 8 = 1, 4, 2, 1
-7. 9 = 1, 5, 2, 1
-8. 8 = 1, 4, 2, 1
-9. 9 = 1, 5, 2, 1
-10. 8 = 1, 4, 2, 1
-11. 9 = 1, 5, 2, 1
-12. 8 = 1, 4, 2, 1
+1. 11 = 3, 5, 2
+2. 8 = 1, 4, 2
+3. 9 = 1, 5, 2
+4. 8 = 1, 4, 2
+5. 9 = 1, 5, 2
+6. 8 = 1, 4, 2
+7. 9 = 1, 5, 2
+8. 8 = 1, 4, 2
+9. 9 = 1, 5, 2
+10. 8 = 1, 4, 2
+11. 9 = 1, 5, 2
+12. 8 = 1, 4, 2
 
 103 = 48 + 45 + 11
 
 # Feats
 
-- lvl 1 - (Combat Casting)[http://www.d20pfsrd.com/feats/general-feats/combat-casting-final/]
-- lvl 1 - (Power Attack)[http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat-final/]
-- lvl 3 - (Toughness)[http://www.d20pfsrd.com/feats/general-feats/toughness-final/]
-- lvl 5 - (Cleave)[http://www.d20pfsrd.com/feats/combat-feats/cleave-combat/]
+- lvl 1 - [Combat Casting](http://www.d20pfsrd.com/feats/general-feats/combat-casting-final/)
+- lvl 1 - [Power Attack](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat-final/)
+- lvl 3 - [Toughness](http://www.d20pfsrd.com/feats/general-feats/toughness-final/)
+- lvl 5 - [Cleave](http://www.d20pfsrd.com/feats/combat-feats/cleave-combat/)
 - lvl 7 -
-- lvl 9 - (Iron Will)[https://www.d20pfsrd.com/feats/general-feats/iron-will-final/]
-- lvl 11 - (Greater Fortitude)[http://www.d20pfsrd.com/feats/general-feats/great-fortitude/]
+- lvl 9 - [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will-final/)
+- lvl 11 - [Greater Fortitude](http://www.d20pfsrd.com/feats/general-feats/great-fortitude/)
 
 # Traits
 
-### Classically Schooled
+### [Classically Schooled](http://www.d20pfsrd.com/traits/magic-traits/classically-schooled/)
 - younger years and academy years
 - Your apprenticeship or early education was particularly focused on the direct application of magic.
 - Benefit: You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class skill for you.
 - Spellcraft +1
 
-### Desperate Focus
+### [Desperate Focus](http://www.d20pfsrd.com/traits/magic-traits/desperate-focus/)
 - post curse and academy years
 - You've often found yourself in situations where a lack of focus can lead to worse than a lost spell.
 - Benefit: You gain a +2 trait bonus on concentration checks.
 - Concentration checks +2
 
-### Resilient
+### [Resilient](http://www.d20pfsrd.com/traits/combat-traits/resilient/)
 - post academy years
 - Growing up in a poor neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You’ve built up your mettle as a result.
 - Benefit: You gain a +1 trait bonus on Fortitude saves.
 - Fortitude +1
 
-# (Spells Known)[http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric]
+# [Spells Known](http://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric)
 
 ### Spell DC for a saving throw against an oracle’s spell is:
 
@@ -156,7 +156,7 @@ Hit Dice D8
 
 # Mythic
 
-- (Hierophant)[http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/]
+- [Hierophant](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/)
 - Inspired Spell - Cast @ 2x lvl
 
 ### Feats
@@ -165,18 +165,18 @@ Hit Dice D8
 
 ### Tier 1
 
-- Feat (Iron Will)[https://www.d20pfsrd.com/mythic/mythic-feats/iron-will-mythic/]
-- Path ability (Faiths Reach)[http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Faith-s-Reach-Su-] Whenever you cast a divine spell with a range of touch, you can instead cast the spell with a range of 30 feet. If the spell normally requires a melee touch attack, it instead requires a ranged touch attack.
+- Feat [Iron Will](https://www.d20pfsrd.com/mythic/mythic-feats/iron-will-mythic/)
+- Path ability [Faiths Reach](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Faith-s-Reach-Su-) Whenever you cast a divine spell with a range of touch, you can instead cast the spell with a range of 30 feet. If the spell normally requires a melee touch attack, it instead requires a ranged touch attack.
 
 ### Path ability: Tier 2
 
-- Base Mythic Abilities (Amazing Initive)[http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Amazing-Initiative-Ex-]
-- Path ability (Rentless Healing)[http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Relentless-Healing-Su-] You can restore life to the recently dead. If a creature has died within 1 round, as a free action you can expend one use of mythic power to apply healing magic to that creature.
+- Base Mythic Abilities [Amazing Initive](http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Amazing-Initiative-Ex-)
+- Path ability [Rentless Healing](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Relentless-Healing-Su-) You can restore life to the recently dead. If a creature has died within 1 round, as a free action you can expend one use of mythic power to apply healing magic to that creature.
 
 ### Path ability: Tier 3
 
-- Base Mythic Abilities (Recuperation)[http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Recuperation-Ex-]
-- Path ability (Alignment Insight)[http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Alignment-Insight-Ex-]
+- Base Mythic Abilities [Recuperation](http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Recuperation-Ex-)
+- Path ability [Alignment Insight](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Alignment-Insight-Ex-)
 
 # [Oracle: Mystery Lore](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
@@ -188,19 +188,19 @@ Instead of encyclopedic knowledge, you learn most of your information through ta
 
 # [Oracle: Revelations](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
-### (Lore Keeper)[http://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/knowledge-domain/#TOC-Lore-Keeper-Sp-]
+### [Lore Keeper](http://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/knowledge-domain/#TOC-Lore-Keeper-Sp-)
 
 Lore Keeper (Ex): Instead of encyclopedic knowledge, you learn most of your information through tales, songs, and poems. You may use your Charisma modifier instead of your Intelligence modifier on all Knowledge checks.
 
-### (Sidestep Secret)[https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/]
+### [Sidestep Secret](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
 Your innate understanding of the universe has granted you preternatural reflexes and the uncanny ability to step out of danger at the very last second. Add your Charisma modifier (instead of your Dexterity modifier) to your Armor Class and all Reflex saving throws. Your armor’s maximum Dexterity bonus applies to your Charisma instead of your Dexterity.
 
-### (Think On It)[https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/]
+### [Think On It](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
 Once per day, the oracle of lore can re-attempt any previously failed Knowledge check. On this attempt, add a +10 competence bonus on the check.
 
-# (Oracle Curs - Tongues)[http://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses/#TOC-Tongues]
+# [Oracle Curs - Tongues](http://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses/#TOC-Tongues)
 
 Whenever you are in combat, you can only speak and understand the selected language. This does not interfere with spellcasting, but it does apply to spells that are language dependent. You gain the selected language as a bonus language.
 
