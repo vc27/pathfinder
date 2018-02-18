@@ -1,12 +1,12 @@
 # History:
 
-*General Character*
+### General Character
 Zah Razen is a 27yr old archaeologist with the affinity for artifacts and lore. Zah stands at an average 5’10” 180lb. His meager presence has always compelled him fill the space with knowledge about the latest discovery or current expedition.
 
-*Brief History*
+### Brief History
 Zah was raised in the furthest town from Dhamsareen that could still be considered a part of the realm named Benulth. Being the only child of two well traveled archaeologists, Zah always aspired to follow their footsteps. Stiving to learn everything from the library his parent had written and accumulated. He spent countless hours of his youth studying ancient texts and lore before moving to the Xandrios Academy. It was in his second year at the academy when his first great life event happened.
 
-*Curse History:*
+### Curse History:
 In his first year of his studies and apprenticeship at Xandrios, Zah regularly came in contact with travelers that had once accompanied his parents on their travels. Zah's professors had become acutly aware of his determination to sneak into the forbidden areas of the library, warning him time and again that there scrolls and rooms he was not ready to encounter. In his youth he didn't grasp what those warning truly meant, and he swept them aside delving deeper into myths and lore far beyond his full understanding.
 
 On many occasions Zah would linger in the great common area of Xandrios looking for specific types of visitors and parties he knew had come to research in the forbiden libraries. He became quite good at decerning which areas of research different parties had come to learn about. With a youthful, light step and no hiderances of gear he snuck quitely behind them, and used them as his key to the fobiden areas.
@@ -41,12 +41,12 @@ Pulling out his third and final candle Zah light the passage and moved quickly b
 
 As time passed Zah realized that in moments of stress or unease he could only speak and understood his own voice. The language, he was told was told by his professors was Aklo. He was marked by his fellow students as a dangerous hazard. Through the remainder of his time at the academy he found that he began to learn more rapidly than those who buried their faces in text. He was surpassing his piers in knowledge through his own personal expeditions and research dealing with the local lore of older generations.
 
-*Expedition History Brief: (lvl 1-3)*
+### Expedition History Brief: (lvl 1-3)
 
 After Zah had graduated from the academy he began to realize that he had grown in the ability to learn and consume knowledge far faster than any traditional apprenticeship. So after graduation, rather than taking an apprenticeship he began going on small expeditions in search of artifacts and secrets for those of wealth.
 
-*Present day:*
+### Present day lvl-3:
 Zah has not seen his parent in over a decade, and secretly hoped that at some time he would happen upon them in one of further expeditions. Though he never explicitly took work to seek them out it was always on his mind when beginning a new job. After some time had passed word had come that his father had been lost in an expidtion in the desert. Father was always fond of the tales of old and Zah always assumed he passed doing what he loved the most. His mother never stopped hunting and she said Zah was too much like his father to spend time with, it was too much of a bleak reminder of their loss.
 
-*Drive or Goals:*
+### Drive or Goals:
 Zah doesn’t really have a specific goal or drive other than completing his next dig or expedition. His only real goal is to stay alive and get to the next step. He is not particularly drawn to a single deity, mostly due to the overwhelming power he experienced when he was cursed.
