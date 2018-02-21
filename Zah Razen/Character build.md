@@ -64,7 +64,7 @@ Hit Dice D8
 - lvl 1 - [Power Attack](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat-final/)
 - lvl 3 - [Toughness](http://www.d20pfsrd.com/feats/general-feats/toughness-final/)
 - lvl 5 - [Cleave](http://www.d20pfsrd.com/feats/combat-feats/cleave-combat/)
-- lvl 7 -
+- lvl 7 - [Divine Protection](http://www.d20pfsrd.com/feats/general-feats/divine-protection)
 - lvl 9 - [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will-final/)
 - lvl 11 - [Greater Fortitude](http://www.d20pfsrd.com/feats/general-feats/great-fortitude/)
 
