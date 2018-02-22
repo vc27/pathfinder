@@ -32,22 +32,22 @@
 
 # Items
 - Ring of Revelations
-- Book of marvelos recipies
+- Book of marvelous recipes
 - Mask of a 1000 tomes
-- Book from the mideflare
+- Book from the mindeflare
 - Vile of mind flare blood
 
-### Celestial armor +9
+### [Celestial armor +9](http://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/celestial-armor/)
 - Chainmail +6, Magic +3
 - Max dex 8
 - Armor Penalty -2 Dex and Str
 - Fly once per day
 
-### Staff of journeis
-- Detect snares & pits
-- Endure Elements
-- Lone strider
-- Freedom of Movement
+### Staff of journeys
+- [Detect snares & pits](http://www.d20pfsrd.com/magic/all-spells/d/detect-snares-and-pits/)
+- [Endure Elements](http://www.d20pfsrd.com/magic/all-spells/e/endure-elements/)
+- [Lone strider](http://www.d20pfsrd.com/magic/all-spells/l/longstrider/)
+- [Freedom of Movement](http://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement/)
 
 ### HP
 
