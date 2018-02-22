@@ -31,9 +31,9 @@
 - Daggar
 
 # Items
-- Ring of Revelations
-- Book of marvelous recipes
-- Mask of a 1000 tomes
+- [Ring of Revelations](http://www.d20pfsrd.com/magic-items/rings/ring-of-revelation/)
+- [Book of marvelous recipes](http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/book-of-marvelous-recipes/)
+- [Mask of a 1000 tomes](http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/m-p/mask-of-a-thousand-tomes/)
 - Book from the mindeflare
 - Vile of mind flare blood
 
