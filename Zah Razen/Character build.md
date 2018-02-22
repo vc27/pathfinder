@@ -2,6 +2,16 @@
 
 - Casting: Caster lvl 12 + ability mod 6 + 4 + 2
 
+### Minis
+
+- https://www.reapermini.com/FigureFinder
+
+[City Dwelling](https://www.reapermini.com/FigureFinder#detail/02637)
+[City Dwelling](https://www.reapermini.com/graphics/gallery/4/02637_G.jpg)
+
+[Ready For Combat](https://www.reapermini.com/FigureFinder#detail/03504)
+[Ready For Combat](https://www.reapermini.com/pages/figure_finder_image.php?sku=03504_w_1.jpg&image=3)
+
 ### Deities
 - Abadar
 - Irori
