@@ -43,11 +43,12 @@
 - Armor Penalty -2 Dex and Str
 - Fly once per day
 
-### Staff of journeys
-- [Detect snares & pits](http://www.d20pfsrd.com/magic/all-spells/d/detect-snares-and-pits/)
-- [Endure Elements](http://www.d20pfsrd.com/magic/all-spells/e/endure-elements/)
-- [Lone strider](http://www.d20pfsrd.com/magic/all-spells/l/longstrider/)
-- [Freedom of Movement](http://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement/)
+### [Staff of journeys](http://www.d20pfsrd.com/magic-items/staves/staff-of-journeys/)
+- [Detect snares & pits - 1 charge](http://www.d20pfsrd.com/magic/all-spells/d/detect-snares-and-pits/)
+- [Endure Elements - 1 charge](http://www.d20pfsrd.com/magic/all-spells/e/endure-elements/)
+- [Lone strider - 1 charge](http://www.d20pfsrd.com/magic/all-spells/l/longstrider/)
+- [Pass without trace - 1 charge](http://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace)
+- [Freedom of Movement - 2 charge](http://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement/)
 
 ### HP
 
