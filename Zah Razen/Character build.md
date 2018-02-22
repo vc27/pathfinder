@@ -213,6 +213,10 @@ Your innate understanding of the universe has granted you preternatural reflexes
 
 Once per day, the oracle of lore can re-attempt any previously failed Knowledge check. On this attempt, add a +10 competence bonus on the check.
 
+### [Brain Drain - Ring of Revelation](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
+
+You can take a standard action to violently probe the mind of a single intelligent enemy within 100 feet. The target receives a Will save to negate the effect and immediately knows the source of this harmful mental prying. Those who fail this save are wracked with pain, taking 1d4 points of damage per oracle level. After successfully attacking with this ability, you may use a fullround action to sort through the jumble of stolen thoughts and memories to make a single Knowledge check using the victim’s skill bonus. The randomly stolen thoughts remain in your mind for a number of rounds equal to your Charisma modifier. Treat the knowledge gained as if you used detect thoughts. This is a mind-affecting effect. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels beyond 5th.
+
 # [Oracle Curs - Tongues](http://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses/#TOC-Tongues)
 
 Whenever you are in combat, you can only speak and understand the selected language. This does not interfere with spellcasting, but it does apply to spells that are language dependent. You gain the selected language as a bonus language.
