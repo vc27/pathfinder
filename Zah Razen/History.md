@@ -50,3 +50,9 @@ Zah has not seen his parent in over a decade, and secretly hoped that at some ti
 
 ### Drive or Goals:
 Zah doesn’t really have a specific goal or drive other than completing his next dig or expedition. His only real goal is to stay alive and get to the next step. He is not particularly drawn to a single deity, mostly due to the overwhelming power he experienced when he was cursed.
+
+# Zai Razen
+
+Zah's Father
+
+![Zai Razen](close-up-portrait-of-an-elderly-indian-man-with-a-long-white-beard-AD19KC.jpg)
