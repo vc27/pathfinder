@@ -170,7 +170,7 @@ Hit Dice D8
 # Mythic
 
 - [Hierophant](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/)
-- Inspired Spell - Cast @ 2x lvl
+- [Inspired Spell - Cast @ 2x lvl](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Inspired-Spell-Su-)
 
 ### Feats
 
