@@ -68,8 +68,9 @@ Hit Dice D8
 10. 8 = 1, 4, 2
 11. 9 = 1, 5, 2
 12. 8 = 1, 4, 2
+13. 9 = 1, 5, 2
 
-103 = 48 + 45 + 11
+112 = 48 + 45 + 11 + 9
 
 # Feats
 
@@ -80,6 +81,7 @@ Hit Dice D8
 - lvl 7 - [Divine Protection](http://www.d20pfsrd.com/feats/general-feats/divine-protection)
 - lvl 9 - [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will-final/)
 - lvl 11 - [Greater Fortitude](http://www.d20pfsrd.com/feats/general-feats/great-fortitude/)
+- lvl 13 - []()
 
 # Traits
 
@@ -143,20 +145,23 @@ Hit Dice D8
 - [Channel Vigor](http://www.d20pfsrd.com/magic/all-spells/c/channel-vigor)
 - [Blindness/Deafness](http://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness)
 
-### 4lvl 3-known, 6-per-day
+### 4lvl 4-known, 6-per-day
 
 - [Cure Critical Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds)
 - [Dismissal](http://www.d20pfsrd.com/magic/all-spells/d/dismissal)
 - [Blessing of Fervor](http://www.d20pfsrd.com/magic/all-spells/b/blessing-of-fervor)
+- []()
 
-### 5lvl 2-known, 5-per-day
+### 5lvl 3-known, 6-per-day
 
 - [Flame Strike](http://www.d20pfsrd.com/magic/all-spells/f/flame-strike)
 - [Breath of Life](http://www.d20pfsrd.com/magic/all-spells/b/breath-of-life)
+- []()
 
-### 6lvl 1-known, 3-per-day
+### 6lvl 2-known, 4-per-day
 
 - [Heal](http://www.d20pfsrd.com/magic/all-spells/h/heal)
+- []()
 
 ### [Bonus Spells](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
