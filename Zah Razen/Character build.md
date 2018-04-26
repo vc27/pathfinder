@@ -81,7 +81,7 @@ Hit Dice D8
 - lvl 7 - [Divine Protection](http://www.d20pfsrd.com/feats/general-feats/divine-protection)
 - lvl 9 - [Iron Will](https://www.d20pfsrd.com/feats/general-feats/iron-will-final/)
 - lvl 11 - [Greater Fortitude](http://www.d20pfsrd.com/feats/general-feats/great-fortitude/)
-- lvl 13 - []()
+- lvl 13 - [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1)
 
 # Traits
 
@@ -221,6 +221,10 @@ Once per day, the oracle of lore can re-attempt any previously failed Knowledge 
 ### [Brain Drain - Ring of Revelation](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
 You can take a standard action to violently probe the mind of a single intelligent enemy within 100 feet. The target receives a Will save to negate the effect and immediately knows the source of this harmful mental prying. Those who fail this save are wracked with pain, taking 1d4 points of damage per oracle level. After successfully attacking with this ability, you may use a fullround action to sort through the jumble of stolen thoughts and memories to make a single Knowledge check using the victim’s skill bonus. The randomly stolen thoughts remain in your mind for a number of rounds equal to your Charisma modifier. Treat the knowledge gained as if you used detect thoughts. This is a mind-affecting effect. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels beyond 5th.
+
+### [Arcane Archivist](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
+
+Your experience with lore-filled tomes has granted you the ability to cast arcane spells as if they were on your spell list. Once per day, you can cast a spell from the [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer)/[wizard](https://www.d20pfsrd.com/classes/core-classes/wizard) spell list as if it were on your list of spells known. The spell consumes a spell slot one level higher than the level of the spell. You must have a spellbook containing the spell to cast it in this way, and the spell is erased when you complete the casting. You must be at least 11th level to select this revelation.
 
 # [Oracle Curs - Tongues](http://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses/#TOC-Tongues)
 
