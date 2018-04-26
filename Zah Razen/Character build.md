@@ -150,18 +150,18 @@ Hit Dice D8
 - [Cure Critical Wounds](http://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds)
 - [Dismissal](http://www.d20pfsrd.com/magic/all-spells/d/dismissal)
 - [Blessing of Fervor](http://www.d20pfsrd.com/magic/all-spells/b/blessing-of-fervor)
-- []()
+- [Dimensional Anchor](http://www.d20pfsrd.com/magic/all-spells/d/dimensional-anchor)
 
 ### 5lvl 3-known, 6-per-day
 
 - [Flame Strike](http://www.d20pfsrd.com/magic/all-spells/f/flame-strike)
 - [Breath of Life](http://www.d20pfsrd.com/magic/all-spells/b/breath-of-life)
-- []()
+- [Wall of Blindness/Deafness](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-blindness-deafness)
 
 ### 6lvl 2-known, 4-per-day
 
 - [Heal](http://www.d20pfsrd.com/magic/all-spells/h/heal)
-- []()
+- [Harm](http://www.d20pfsrd.com/magic/all-spells/h/harm)
 
 ### [Bonus Spells](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
