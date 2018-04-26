@@ -172,6 +172,20 @@ Hit Dice D8
 - [contact other plane (10th)](http://www.d20pfsrd.com/magic/all-spells/c/contact-other-plane)
 - [mass owl’s wisdom (12th)](http://www.d20pfsrd.com/magic/all-spells/o/owl-s-wisdom)
 
+### Spell Book from ilithid
+
+Can spend one mythic point in conjunction with [Arcane Archivist](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/) to use one of these spells. Once per day.
+
+- 8th quickened [charm monster](https://www.d20pfsrd.com/magic/all-spells/c/charm-monster/) (DC 23), [mind blank](https://www.d20pfsrd.com/magic/all-spells/m/mind-blank/), [prismatic wall](http://www.d20pfsrd.com/magic/all-spells/p/prismatic-wall/)
+- 7th [prismatic spray (M)](https://www.d20pfsrd.com/magic/all-spells/p/prismatic-spray/), quickened [haste](https://www.d20pfsrd.com/magic/all-spells/h/haste/), mass [hold person](https://www.d20pfsrd.com/magic/all-spells/h/hold-person/) (DC 25), [phase door](http://www.d20pfsrd.com/magic/all-spells/p/phase-door/)
+- 6th [globe of invulnerability](https://www.d20pfsrd.com/magic/all-spells/g/globe-of-invulnerability/), [greater dispel magic](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic/), greater [heroism](http://www.d20pfsrd.com/magic/all-spells/h/heroism/), mass [bull’s strength](https://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength/), mass [suggestion](https://www.d20pfsrd.com/magic/all-spells/s/suggestion/)(DC 24)
+- 5th [break enchantment](https://www.d20pfsrd.com/magic/all-spells/b/break-enchantment/), stilled [dimension door](https://www.d20pfsrd.com/magic/all-spells/d/dimension-door/), [dominate person](https://www.d20pfsrd.com/magic/all-spells/d/dominate-person/) (2, DC 23), communal [stoneskin](https://www.d20pfsrd.com/magic/all-spells/s/stoneskin/), [wall of stone](https://www.d20pfsrd.com/magic/all-spells/w/wall-of-stone/)
+- 4th [arcane eye](http://www.d20pfsrd.com/magic/all-spells/a/arcane-eye/), [charm monster](https://www.d20pfsrd.com/magic/all-spells/c/charm-monster/) (DC 22), [confusion](https://www.d20pfsrd.com/magic/all-spells/c/confusion/) (DC 22), [remove curse](https://www.d20pfsrd.com/magic/all-spells/r/remove-curse/), [solid fog](https://www.d20pfsrd.com/magic/all-spells/s/solid-fog/), [stoneskin](https://www.d20pfsrd.com/magic/all-spells/s/stoneskin/)
+- 3rd [dispel magic](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic/), [haste](https://www.d20pfsrd.com/magic/all-spells/h/haste/) (DC 19), [hold person](https://www.d20pfsrd.com/magic/all-spells/h/hold-person/) (2, DC 21), [protection from energy](http://www.d20pfsrd.com/magic/all-spells/p/protection-from-energy/), [wind wall](https://www.d20pfsrd.com/magic/all-spells/w/wind-wall/)
+- 2nd [acid arrow](http://www.d20pfsrd.com/magic/all-spells/a/acid-arrow/), [hideous laughter](https://www.d20pfsrd.com/magic/all-spells/h/hideous-laughter/) (DC 20), [invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility/), [levitate](https://www.d20pfsrd.com/magic/all-spells/l/levitate/), [resist energy](https://www.d20pfsrd.com/magic/all-spells/r/resist-energy/) (2), [see invisibility](https://www.d20pfsrd.com/magic/all-spells/s/see-invisibility/)
+- 1st alarm, charm person (DC 19), expeditious retreat, feather fall, grease, mage armor, true strike
+- 0th (at will)—dancing lights, detect magic, message, resistance
+
 # Mythic
 
 - [Hierophant](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/)
@@ -179,7 +193,7 @@ Hit Dice D8
 
 ### Feats
 
-- Hard to kill - Auto stablize, double con death
+- Hard to kill - Auto stabilize, double con death
 
 ### Tier 1
 
@@ -224,7 +238,9 @@ You can take a standard action to violently probe the mind of a single intellige
 
 ### [Arcane Archivist](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
-Your experience with lore-filled tomes has granted you the ability to cast arcane spells as if they were on your spell list. Once per day, you can cast a spell from the [sorcerer](https://www.d20pfsrd.com/classes/core-classes/sorcerer)/[wizard](https://www.d20pfsrd.com/classes/core-classes/wizard) spell list as if it were on your list of spells known. The spell consumes a spell slot one level higher than the level of the spell. You must have a spellbook containing the spell to cast it in this way, and the spell is erased when you complete the casting. You must be at least 11th level to select this revelation.
+Your experience with lore-filled tomes has granted you the ability to cast arcane spells as if they were on your spell list. Once per day, you can cast a spell from the [sorcerer/wizard](https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard) spell list as if it were on your list of spells known. The spell consumes a spell slot one level higher than the level of the spell. You must have a spellbook containing the spell to cast it in this way, and the spell is erased when you complete the casting. You must be at least 11th level to select this revelation.
+
+- [Dimension Door](https://www.d20pfsrd.com/magic/all-spells/d/dimension-door)
 
 # [Oracle Curs - Tongues](http://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses/#TOC-Tongues)
 
