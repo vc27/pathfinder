@@ -70,7 +70,10 @@ Hit Dice D8
 12. 8 = 1, 4, 2
 13. 9 = 1, 5, 2
 
-112 = 48 + 45 + 11 + 9
+- mythic 4th tier +4 hp
+- mythic 4th tier +13 hp from con
+
+130 = 48 + 45 + 11 + 9 + 4 + 13
 
 # Feats
 
@@ -209,6 +212,13 @@ Can spend one mythic point in conjunction with [Arcane Archivist](http://www.d20
 
 - Base Mythic Abilities [Recuperation](http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Recuperation-Ex-)
 - Path ability [Alignment Insight](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Alignment-Insight-Ex-)
+
+### Path ability: Tier 4
+
+- +2 to a stat = con
+- path ability = needed
+- 4 extra hp
+- d8 surge
 
 # [Oracle: Mystery Lore](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
