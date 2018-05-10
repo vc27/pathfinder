@@ -54,7 +54,7 @@
 
 Hit Dice D8
 
-(toughness)+(hd-average)+(con)
+(toughness+2)+(hd-average)+(con)
 
 1. 11 = 3, 5, 2
 2. 8 = 1, 4, 2
@@ -72,8 +72,9 @@ Hit Dice D8
 
 - mythic 4th tier +4 hp
 - mythic 4th tier +13 hp from con
+- mythic toughness @ 4th tier = 13
 
-130 = 48 + 45 + 11 + 9 + 4 + 13
+143 = 48 + 45 + 11 + 9 + 4 + 13 + 13
 
 # Feats
 
@@ -205,7 +206,7 @@ Can spend one mythic point in conjunction with [Arcane Archivist](http://www.d20
 
 ### Path ability: Tier 2
 
-- Base Mythic Abilities [Amazing Initive](http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Amazing-Initiative-Ex-)
+- Base Mythic Abilities [Amazing Initiative](http://www.d20pfsrd.com/mythic/mythic-heroes/#TOC-Amazing-Initiative-Ex-)
 - Path ability [Rentless Healing](http://www.d20pfsrd.com/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant/#TOC-Relentless-Healing-Su-) You can restore life to the recently dead. If a creature has died within 1 round, as a free action you can expend one use of mythic power to apply healing magic to that creature.
 
 ### Path ability: Tier 3
@@ -216,9 +217,10 @@ Can spend one mythic point in conjunction with [Arcane Archivist](http://www.d20
 ### Path ability: Tier 4
 
 - +2 to a stat = con
-- path ability = needed
 - 4 extra hp
 - d8 surge
+
+- Path ability: Extra Mythic Feat (Ex): [Toughness (Mythic)](https://www.d20pfsrd.com/mythic/mythic-feats/toughness-mythic/) Toughness provides you twice as many hit points. In addition, when you’re below 0 hit points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess.
 
 # [Oracle: Mystery Lore](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
