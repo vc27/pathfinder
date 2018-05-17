@@ -244,9 +244,13 @@ Your innate understanding of the universe has granted you preternatural reflexes
 
 Once per day, the oracle of lore can re-attempt any previously failed Knowledge check. On this attempt, add a +10 competence bonus on the check.
 
-### [Brain Drain - Ring of Revelation](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
+### [Ring of Revelation - Grants - Brain Drain](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
 You can take a standard action to violently probe the mind of a single intelligent enemy within 100 feet. The target receives a Will save to negate the effect and immediately knows the source of this harmful mental prying. Those who fail this save are wracked with pain, taking 1d4 points of damage per oracle level. After successfully attacking with this ability, you may use a fullround action to sort through the jumble of stolen thoughts and memories to make a single Knowledge check using the victim’s skill bonus. The randomly stolen thoughts remain in your mind for a number of rounds equal to your Charisma modifier. Treat the knowledge gained as if you used detect thoughts. This is a mind-affecting effect. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels beyond 5th.
+
+### [Whirlwind Lesson](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/#TOC-Revelations7)
+
+You can quickly browse through a magical tome or manual, gaining its benefits with only a single 8-hour study session (rather than the usual 48 hours over a period of 6 days). At 7th level, you may allow another character to join in your study; both of you gain the full benefit of having read the book. At 15th level, you may share your whirlwind lesson with a number of characters equal to your oracle level. The benefits to you are permanent, whereas your students gain the tome or manual’s benefits for a number of days equal to your Charisma modifier but then forget what they have learned.
 
 ### [Arcane Archivist](http://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/lore/)
 
